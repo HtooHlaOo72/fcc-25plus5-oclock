@@ -1,7 +1,7 @@
 {
-  "name": "fcc-25-o-clock",
+  "name": "fcc-25plus5-clock",
   "version": "1.0.0",
-  "description": "This is a project from free code camp front end libraries projects.",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
